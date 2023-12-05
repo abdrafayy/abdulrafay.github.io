@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Welcome to PurrfectDrive, I am Mr Whiskers and I am managing this website for my caretaker
-        Abdul Rafay"
+title: "Welcome to PurrfectDrive, I am Mr TechWhiskers"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
