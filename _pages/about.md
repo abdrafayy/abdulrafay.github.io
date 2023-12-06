@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![cat](/images/cat.png){: .align-right width="300px"}
+
 What does the cat say?  
 HO HO HO  
 What does the cat say?  
@@ -16,8 +18,6 @@ What does the cat say after making a joke? "Just kitten!" 😸
 
 Hello everyone, I am Smith, this is PurrfectDrive, where  
 machine learning 👨🏻‍💻, feline charm 🐈 and automotive 🏎 passion converge. 
-
-![cat](https://github.com/abdrafayy/my-website/blob/master/images/cat.jpg)
 
 Meet my buddy Whiskers, an ingenious marvel  
 During the day, he roams around the city, wherever curiosity leads him.  
