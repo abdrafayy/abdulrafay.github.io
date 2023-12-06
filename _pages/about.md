@@ -17,7 +17,9 @@ What does the cat say after making a joke? "Just kitten!" 😸
 Hello everyone, I am Smith, this is PurrfectDrive, where  
 machine learning 👨🏻‍💻, feline charm 🐈 and automotive 🏎 passion converge. 
 
-[![Cat Funny Cat GIF](https://tenor.com/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708)](https://tenor.com/en-GB/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708)
+![Cat](/images/cat.jpg){
+: .align-center width = "300px"
+}
 
 Meet my buddy Whiskers, an ingenious marvel  
 During the day, he roams around the city, wherever curiosity leads him.  
