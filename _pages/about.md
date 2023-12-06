@@ -17,7 +17,7 @@ What does the cat say after making a joke? "Just kitten!" 😸
 Hello everyone, I am Smith, this is PurrfectDrive, where  
 machine learning 👨🏻‍💻, feline charm 🐈 and automotive 🏎 passion converge. 
 
-<a href="url"><img src="/images/cat.jpg" align="cemter" height="300" width="300" ></a>
+<img src="/images/cat.jpg" align="center" height="300" width="300" >
 
 Meet my buddy Whiskers, an ingenious marvel  
 During the day, he roams around the city, wherever curiosity leads him.  
