@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![cat](/images/cat.png){: .align-right width="300px"}
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 What does the cat say?  
 HO HO HO  
@@ -16,10 +16,12 @@ What does the cat say?
 Purr Purr  
 What does the cat say after making a joke? "Just kitten!" 😸
 
-Hello everyone, I am Smith, this is PurrfectDrive, where  
+Hello everyone, I am Abdul Rafay, this is PurrfectDrive, where  
 machine learning 👨🏻‍💻, feline charm 🐈 and automotive 🏎 passion converge. 
 
 Meet my buddy Whiskers, an ingenious marvel  
 During the day, he roams around the city, wherever curiosity leads him.  
 At night, he codes for me, manages this website, comes up with new ways of solving problems.
+
+
 
