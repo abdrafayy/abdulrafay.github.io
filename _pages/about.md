@@ -18,7 +18,7 @@ Hello everyone, I am Smith, this is PurrfectDrive, where
 machine learning 👨🏻‍💻, feline charm 🐈 and automotive 🏎 passion converge. 
 
 <p align="center">
-  <img src="/image/cat.jpg" width="350" title="cat">
+  <img src="/images/cat.jpg" width="350" title="cat">
 </p>  
 Meet my buddy Whiskers, an ingenious marvel  
 During the day, he roams around the city, wherever curiosity leads him.  
