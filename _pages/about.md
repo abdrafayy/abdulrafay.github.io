@@ -24,7 +24,7 @@ At night, he codes for me, manages this website, comes up with new ways of solvi
 
 <div style="text-align: center;">
 <video width="30%" loop autoplay muted>
-  <source src="my-website/images/cat-funny-cat.mp4" type="video/mp4">
+  <source src="/images/cat-funny-cat.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
