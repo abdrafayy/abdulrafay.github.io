@@ -22,9 +22,7 @@ You, my dear reader, are an emotional animal. Your sentiments, as delicate as th
 Surprisingly enough, this emotional turmoil happens both on a grand and a miniscule scale.
 
 On the grand scale, it unveils itself over decades. A silent discourse where desires thwarted and 
-
 dreams unrealized. However, on microscopic level, it’s a daily drama. A routine where promises are 
-
 made to be broken, a trip to the gym, a vow to eat healthy, a resolution to abandon people who are toxic. Alas my friends, these promises more often than not, are lost in the cyclone similar to the one that hit Chennai recently.
 
 And what follows? A perpetuation of normalcy. "Ah, next week for sure," you tell yourself. "Next month, without a doubt." The grand declaration of "2024, for sure, macha!" becomes your shield against self-blame. You escape, my friends, running from the promises you made to yourself. In the long run, you betray the most crucial relationship - the one with yourself.    
