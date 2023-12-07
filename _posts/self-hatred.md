@@ -1,6 +1,6 @@
 ---
 title: 'Self Hatred'
-date: 2012-08-14
+date: 2023-12-07
 permalink: /posts/2023/7-12/self-hatred/
 tags:
   - self
