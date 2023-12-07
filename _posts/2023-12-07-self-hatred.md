@@ -1,7 +1,7 @@
 ---
 title: "Self-Hatred"
-date: 2023-07-12
-permalink: /posts/2023/7-12/self-hatred/
+date: 2023-12-07
+permalink: /posts/2023/12-7/self-hatred/
 ---
 
 How to cultivate self hatred?
