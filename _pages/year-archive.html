@@ -17,7 +17,7 @@ redirect_from:
   {% endif %}
   <article class="archive-post">
     <h3>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h3>
     <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
   </article>
